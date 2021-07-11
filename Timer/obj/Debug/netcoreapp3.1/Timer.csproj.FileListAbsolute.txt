@@ -1,0 +1,17 @@
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.exe
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.json
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.dev.json
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+C:\Users\xboxd\source\repos\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.AssemblyReference.cache
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.GenerateResource.cache
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.CoreCompileInputs.cache
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.genruntimeconfig.cache
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\TimerTool.FormTimerMenu.resources
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\TimerTool.FormAddTimer.resources
+C:\Users\xboxd\source\repos\Timer\obj\Debug\netcoreapp3.1\Timer.Properties.Resources.resources
